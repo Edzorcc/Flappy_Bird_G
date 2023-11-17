@@ -1,2 +1,2 @@
 # Flappy_Bird_G
-A simple Game with js and html.
+A Funnyy Game with Js and Html.
